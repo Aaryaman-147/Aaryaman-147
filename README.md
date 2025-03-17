@@ -4,3 +4,7 @@ Fueled by curiosity and a thirst for knowledge, I always seek to expand my skill
 
 📫 How to reach me: <br>
 🔗 LinkedIn: [Connnect with Me](https://www.linkedin.com/in/aaryaman-arora-b07520312/)
+
+Feel free to reach out
+
+Thanks for checking me out
