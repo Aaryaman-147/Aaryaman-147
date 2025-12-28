@@ -1,7 +1,7 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" style="vertical-align: middle;" /> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Aaryaman;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=650&lines=I'm+Aaryaman;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 As a sophomore at Thapar Institute of Engineering & Technology, I'm currently developing data-driven and interactive projects at the intersection of biotechnology, software, and design.
