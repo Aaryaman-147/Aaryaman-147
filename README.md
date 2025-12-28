@@ -1,4 +1,4 @@
-## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Aaryaman
+## Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" style="vertical-align: middle;" /> I'm Aaryaman
 As a sophomore at Thapar Institute of Engineering & Technology, I'm currently developing data-driven and interactive projects at the intersection of biotechnology, software, and design.
 I'm looking to collaborate on open-source projects involving Python, JavaScript, APIs, and data visualisation.<br><br>🧰 Tech Stack & Tools: Python • JS • HTML • SQL • CSS • API • Data analysis & visualisation • Git & GitHub<br><br>🌱 Currently learning React and the modern frontend ecosystem while deepening my understanding of JavaScript, APIs, UI design, and data visualisation through hands-on projects.<br><br>🔬Currently exploring and experimenting with ML & data-heavy frontend architectures.<br><br>⚡Fun Fact<br>I enjoy over-engineering side projects, naming them dramatically, and then actually finishing them.<br>
 
