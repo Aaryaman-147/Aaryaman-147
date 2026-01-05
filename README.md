@@ -21,3 +21,11 @@ I'm looking to collaborate on open-source projects involving Python, JavaScript,
 ---
 [![](https://visitcount.itsvg.in/api?id=Aaryaman-147&icon=0&color=0)](https://visitcount.itsvg.in)
 
+````
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+//
+````
