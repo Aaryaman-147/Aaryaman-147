@@ -31,3 +31,5 @@ if (codeWorking){
 ````
 
 # Thanks for Visiting my GitHub Profile!
+
+![GitHub contribution snake](https://raw.githubusercontent.com/Aaryaman-147/Aaryaman-147/output/snake.svg)
