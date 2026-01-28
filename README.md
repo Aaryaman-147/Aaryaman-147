@@ -40,5 +40,5 @@ if (codeWorking){
 
 # Thanks for Visiting my GitHub Profile!
 
-![GitHub contribution snake](assets/snake.svg)
+![Pacman](assets/pacman-contributions.svg)
 ![Space Shooter](assets/space-shooter.gif)
